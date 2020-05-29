@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using VillaApp.Models;
+using VillaApp.Web.Models;
 
-namespace VillaApp.Controllers
+namespace VillaApp.Web.Controllers
 {
     public class HomeController : Controller
     {

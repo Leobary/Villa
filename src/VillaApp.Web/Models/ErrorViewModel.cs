@@ -1,6 +1,6 @@
 using System;
 
-namespace VillaApp.Models
+namespace VillaApp.Web.Models
 {
     public class ErrorViewModel
     {
